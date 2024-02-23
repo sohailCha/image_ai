@@ -58,7 +58,7 @@ const MobileNav = () => {
 												} p-18 flex whitespace-nowrap text-dark-700`}
 												key={link.route}>
 												<Link
-													className='sidebar-link cursor-pointer'
+													className='sidebar-mub-link cursor-pointer pl-0'
 													href={link.route}>
 													<Image
 														src={link.icon}

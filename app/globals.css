@@ -335,6 +335,10 @@
 		@apply p-16-semibold flex size-full gap-4 p-4;
 	}
 
+	.sidebar-mub-link {
+		@apply p-16-semibold flex size-full gap-4 p-4 pl-0;
+	}
+
 	/* TransformationForm Component */
 	.prompt-field {
 		@apply flex flex-col gap-5 lg:flex-row lg:gap-10;
